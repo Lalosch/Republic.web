@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "pmr-salarios",
+  "private_key_id": "0d934e33ea2e5514d400c24f99869eed7e8e74a7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCRYVEsfnfbfMdb\naSzvrouq/OfjbDEetn7fkhnZV7yYkeS2BLYlvQ3aB/VMiX3cGS8PM5778pH9LQgN\nA1TBMZHQPTTKF7paja1qW7smWowiePXJfCytSNYahRkDOahbbaVHqZG0nJA3DcaV\nflCIK9GJK/VqkQbbwcjE/wzivzn0gcqwfWej+3PFoIKl/vRhy1U3xa4UsZxXn1By\nCzKiTXYfB6RJJ4OqLCEh5KLCjvvnyqDh4v3H9t4Sh5LSYDtgKHMzYJoCuWmWs4mf\nMC2Z4BzAFILbl8hiq2GBzk1v3kkPaqZQHVuXxzIlBGnfMqpEie37uXz/n+cT8msn\n38qCjrr3AgMBAAECggEADjJyuuWeztBgp4yd1so02X3ZJ1xpb5ZizXJ3E8J9qGiW\n7S+ImibcM26TheXnZJcRAWsJG5GUsCS1pI+uty8gDjXr8dBfYnhzdu9+V0CAbt1h\nI0v9EO8L+YsF5kq7JjKO8XCdygWAD+BIhFDRjHq6+6pPTRjckplaAeLmXz5NapMc\nijoYNGxTmMHHyz6rdZPq2CF+8TzWoTFVlPja9RUigOQN6iWIHb3fQhZAWAKWX0Yp\nUykGEYa34c46CMkxgJhk2qS52LQVkXp2zoMLTb8xTjpUQYEiE6vaK79UCRU6HBhi\nB/YZRFjYvvvYPLVeegghUD9d2nkFa2hQu/oAr4zgAQKBgQDBCSk3szxdXTZzr0bF\nHigE8ffk4jNBVuC7WX277vn+KazTIkI/Zt5op6bFdJ+Nq13vfWms+JeDmF6BCwVn\nieUizwsRil2h2xW9/JUPxDcUY+OqXW0GxGFzbjoCiOop9uEMunfI16yT8rm7dUFt\nL/GgU7xaNEFoZPp2z7IxqlhI0QKBgQDAzNLPXBXOhkd59nX/GCSToXhiDEMpKWLK\nmoj8iwCa6to5izzbLAYpHoBTxiNV13F4D0KL6HYEYFDqdU5BhoHQ6RInSwBUT3SB\nCUB74gpZvkkQ+sBfgZJWF63much5SHATK7i5X2EiXPzz1OsH/AK6wtdzrktMlhlj\niGN9lRw5RwKBgQCxs6hBAXwhisy0xHdGwRMgMkv9ZYq/rKWncqO/3ShAJMdXeiM4\nUI+QEj4BafHzrf0EmhQtSo/Yce0VqDqqbRQF7kmHNTQq6w9h3WKvp/b4i1grHmRe\npWv8ok0+xiGizgWw/PuGZZ0WeY0nl7LKPCeYa11qQM6xtrunol2tQN6S8QKBgQC8\n88AjU0dX6YgBgscv45RtT1GxHf1wSMw2be+VOhG0wjhvLwPMdT/waqEv+T7GMWhW\nVvZMMd3/+fkzXxX75/wwJ0wQUFQZTOmMUOnuv6CPRYtMZcPFljI5x+k595f/LTwR\nvcbDfjOvPtz1hxV09MokCTKogAfyHiTxxEhlWo6XnwKBgApykoZR5dF1hu3iYMQF\nLLZ0plk1lc3sZ0cg9paZkCpAAJ/gOTG8HS+bjFzMGQa8Z9uTmxp62oaxA1Cebr38\nUCTySp5T6tFXo0kfDQ958XKJ5hCv99c0jRvfHm0ZsZFGaphjnrZqTUsB9iQuMMjr\nL/L+UAf1TtGcrtEyD1/27i3G\n-----END PRIVATE KEY-----\n",
+  "client_email": "pmr-lector@pmr-salarios.iam.gserviceaccount.com",
+  "client_id": "113232733277998390445",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pmr-lector%40pmr-salarios.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
